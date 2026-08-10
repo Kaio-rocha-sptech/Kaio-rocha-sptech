@@ -1,145 +1,225 @@
+<div align="center">
+
 # 👋 Olá, eu sou o Kaio Rodrigues
 
-### Estudante de Ciência da Computação | Análise de Dados
+### Ciência da Computação • Análise de Dados • Desenvolvimento
 
-Sou estudante de **Ciência da Computação** e profissional em início de carreira na área de **Análise de Dados**, utilizando este espaço para reunir projetos acadêmicos, estudos e experiências desenvolvidas ao longo da minha formação.
+Estudante de **Ciência da Computação** e profissional em início de carreira na área de **Análise de Dados**.
 
-Meu objetivo com este perfil é documentar minha evolução técnica e acadêmica, transformando conceitos estudados em projetos práticos e mantendo um histórico do meu aprendizado em diferentes áreas da computação.
+Utilizo este GitHub como um espaço para reunir meus projetos acadêmicos, experimentos, estudos e registrar minha evolução ao longo da graduação.
+
+</div>
+
+---
+
+## 🧭 Navegação
+
+<p align="center">
+
+[Sobre mim](#-sobre-mim) •
+[Formação](#-formação--desenvolvimento) •
+[Tecnologias](#️-tecnologias--ferramentas) •
+[Projetos](#-projetos-acadêmicos) •
+[Estudos](#-atualmente-estudando) •
+[GitHub](#-github) •
+[Contato](#-contato)
+
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Kaio-rocha-sptech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
+### 🌌 Development Overview
 
-<img
- height="165"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-rocha-sptech&layout=compact&hide_border=true&langs_count=8"
- alt="Top Languages"
-/>
+<table>
+  <tr>
+    <td align="center" valign="middle" width="33%">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaio-rocha-sptech&theme=github_dark"
+        alt="Most Commit Language"
+      />
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaio-rocha-sptech&theme=github_dark&utcOffset=-3"
+        alt="Productive Time"
+      />
+    </td>
+  </tr>
+</table>
 
-</p>
+> As métricas representam principalmente a atividade pública disponível neste perfil e não necessariamente todo o conjunto de tecnologias com que possuo experiência.
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Kaio-rocha-sptech&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+---
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaio-rocha-sptech&theme=github"
-    alt="GitHub Profile Summary"
-  />
-</p>
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação**, com interesse especial em **dados, desenvolvimento de software e infraestrutura**.
+
+Meu objetivo com este perfil é documentar minha evolução técnica e acadêmica, transformando conceitos estudados em aplicações práticas.
+
+Busco utilizar cada projeto não apenas como uma entrega, mas como uma oportunidade de explorar:
+
+* arquitetura de software;
+* análise e processamento de dados;
+* desenvolvimento Back-end;
+* bancos de dados;
+* infraestrutura e Cloud Computing;
+* APIs e integração entre sistemas;
+* boas práticas de desenvolvimento;
+* documentação técnica.
+
+> Este perfil funciona como um registro contínuo da minha formação e da evolução dos meus conhecimentos em computação.
 
 ---
 
 ## 🎓 Formação & Desenvolvimento
 
-Atualmente curso **Ciência da Computação**, desenvolvendo conhecimentos tanto nos fundamentos da computação quanto em aplicações práticas relacionadas a desenvolvimento de software e dados.
+Atualmente curso **Ciência da Computação**, desenvolvendo conhecimentos tanto nos fundamentos teóricos da computação quanto em suas aplicações práticas.
 
-Tenho direcionado parte dos meus estudos para:
+Tenho direcionado meus estudos principalmente para:
 
-* 📊 Análise e exploração de dados
-* 🗄️ Bancos de dados e modelagem
-* 🐍 Python aplicado a dados e automação
-* ⚙️ Desenvolvimento Back-end
-* 🌐 Desenvolvimento Web
-* ☁️ Cloud Computing
-* 📡 Redes e infraestrutura
-* 📈 Visualização e interpretação de dados
+* 📊 **Análise e exploração de dados**
+* 🗄️ **Bancos de dados e modelagem**
+* 🐍 **Python aplicado a dados e automação**
+* ⚙️ **Desenvolvimento Back-end**
+* 🌐 **Desenvolvimento Web**
+* ☁️ **Cloud Computing**
+* 📡 **Redes e infraestrutura**
+* 📈 **Visualização e interpretação de dados**
 
-Além dos projetos acadêmicos, utilizo meus repositórios para documentar experimentos, estudos independentes e tecnologias que estou aprendendo.
+Além dos projetos acadêmicos, utilizo meus repositórios para documentar experimentos, estudos independentes e novas tecnologias.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens & Web
+### 💻 Linguagens & Web
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-### Dados
+### 📊 Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-4D8DFF?style=for-the-badge"/>
+</p>
 
-### Desenvolvimento
+### ⚙️ Desenvolvimento
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
+  <img src="https://img.shields.io/badge/Express.js-161B22?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-### Cloud & Infraestrutura
+### ☁️ Cloud & Infraestrutura
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-6F42C1?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📚 Últimos Projetos Acadêmicos
-
-Esta seção reúne alguns dos principais projetos desenvolvidos durante minha formação.
+## 📚 Projetos Acadêmicos
 
 ### 🌦️ Atmos
 
 **Monitoramento e análise de infraestrutura para distribuição de dados meteorológicos.**
 
-Projeto desenvolvido para aplicar conceitos de monitoramento, coleta e análise de dados relacionados à infraestrutura computacional.
+Projeto desenvolvido para aplicar conceitos relacionados à coleta, processamento, monitoramento e análise de dados de infraestrutura computacional.
 
-**Principais conceitos aplicados:**
+#### Tecnologias
 
 `Python` • `Node.js` • `MySQL` • `AWS` • `ETL` • `Data Analysis`
 
-> O projeto envolve coleta de métricas, processamento de dados, identificação de comportamentos críticos e armazenamento de informações para posterior análise.
+#### Conceitos trabalhados
 
-🔗 **[Ver projetos →](https://github.com/Kaio-rocha-sptech?tab=repositories)**
+* coleta automatizada de métricas;
+* processamento de dados;
+* construção de pipelines ETL;
+* identificação de comportamentos críticos;
+* armazenamento de dados;
+* monitoramento de infraestrutura;
+* análise de informações coletadas.
+
+> O projeto busca integrar conceitos de desenvolvimento, infraestrutura e dados dentro de uma arquitetura única.
+
+🔗 **[Ver meus repositórios →](https://github.com/Kaio-rocha-sptech?tab=repositories)**
 
 ---
 
 ### 🧪 Outros projetos
 
-Outros projetos acadêmicos, experimentos e estudos podem ser encontrados nos meus repositórios.
+Além do Atmos, meus repositórios incluem projetos acadêmicos, provas de conceito, experimentos e estudos desenvolvidos durante minha formação.
 
-🔗 **[Explorar repositórios →](https://github.com/Kaio-rocha-sptech?tab=repositories)**
+Procuro estruturar os projetos documentando:
+
+```text
+Problema
+   ↓
+Planejamento
+   ↓
+Arquitetura
+   ↓
+Desenvolvimento
+   ↓
+Testes
+   ↓
+Documentação
+   ↓
+Aprendizado
+```
+
+🔗 **[Explorar todos os projetos →](https://github.com/Kaio-rocha-sptech?tab=repositories)**
 
 ---
 
 ## 🧠 Atualmente estudando
 
-Meu aprendizado atualmente está direcionado ao aprofundamento de conhecimentos relacionados a:
+Meu aprendizado atualmente está direcionado ao aprofundamento de conhecimentos relacionados a dados, desenvolvimento e infraestrutura.
 
 ```text
 Data Analysis
+│
 ├── Python
 ├── SQL
 ├── Data Processing
 ├── Data Visualization
-└── Statistical Analysis
+├── Statistical Analysis
+└── ETL
+
 
 Software Development
+│
 ├── Back-end
 ├── APIs
 ├── REST
 ├── Databases
-└── Software Architecture
+├── Software Architecture
+└── Integration between Systems
+
 
 Infrastructure
+│
 ├── Cloud Computing
+├── AWS
 ├── Docker
 ├── Computer Networks
 └── Distributed Systems
@@ -147,41 +227,49 @@ Infrastructure
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub
+
+<div align="center">
+
+### Desenvolvimento contínuo
+
+📚 Projetos acadêmicos
+🧪 Experimentos técnicos
+📊 Estudos relacionados a dados
+⚙️ Desenvolvimento de aplicações
+☁️ Infraestrutura e Cloud
+
+</div>
+
+Meu GitHub representa principalmente minha trajetória acadêmica e meus estudos.
+
+As tecnologias presentes nos repositórios não representam necessariamente todo o meu conhecimento, mas registram as ferramentas utilizadas em diferentes momentos da minha formação.
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaio-rocha-sptech&theme=github"
-    alt="Repositories per Language"
-  />
 
-<img
- src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaio-rocha-sptech&theme=github"
- alt="Most Commit Language"
-/>
+🔗 **[Repositórios](https://github.com/Kaio-rocha-sptech?tab=repositories)**
+  •  
+📊 **[Contribuições](https://github.com/Kaio-rocha-sptech)**
 
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaio-rocha-sptech&theme=github&utcOffset=-3"
-    alt="Productive Time"
-  />
-</p>
-
-> As estatísticas representam os projetos públicos disponíveis neste perfil e não necessariamente todo o conjunto de tecnologias com que possuo experiência.
 
 ---
 
 ## 📖 Filosofia deste perfil
 
-Acredito que aprender computação vai além de conhecer linguagens ou ferramentas.
+Acredito que aprender computação vai além de simplesmente conhecer linguagens, frameworks ou ferramentas.
 
-Por isso, utilizo este GitHub como um registro contínuo da minha formação, documentando projetos, experimentos, erros, soluções e conhecimentos adquiridos durante minha trajetória.
+O aprendizado acontece principalmente quando conceitos são utilizados para resolver problemas reais.
+
+Por isso, utilizo este GitHub como um registro contínuo da minha formação, documentando projetos, experimentos, erros, decisões, soluções e conhecimentos adquiridos durante minha trajetória.
+
+<div align="center">
 
 ```text
 Estudar → Experimentar → Construir → Documentar → Evoluir
 ```
+
+</div>
 
 ---
 
@@ -189,12 +277,20 @@ Estudar → Experimentar → Construir → Documentar → Evoluir
 
 Estou aberto a conexões profissionais, acadêmicas e oportunidades relacionadas à tecnologia e dados.
 
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kaio-rodrigues-4942641a5)
+<p align="center">
 
-**E-mail:** [kaio.rocha@sptech.school](mailto:kaio.rocha@sptech.school)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaio%20Rodrigues-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kaio-rodrigues-4942641a5)
+
+[![Email](https://img.shields.io/badge/Email-kaio.rocha%40sptech.school-6F42C1?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kaio.rocha@sptech.school)
+
+</p>
 
 ---
 
-<p align="center">
-  <i>Construindo conhecimento, um projeto de cada vez.</i>
-</p>
+<div align="center">
+
+### 🚀 Construindo conhecimento, um projeto de cada vez.
+
+`Computer Science` • `Data Analysis` • `Software Development`
+
+</div>
